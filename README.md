@@ -17,14 +17,25 @@ For any questions please email at andmakris@gmail.com
 
 # Requirements:
 abcplus                  0.1.0
+
 matplotlib               3.9.0
+
 numpy                    1.26.4
+
 opencv-python            4.9.0.80
+
 pandas                   2.2.2
+
 pygame                   2.5.2
+
 scikit-learn             1.5.1
+
 scipy                    1.13.0
+
 torch                    2.3.0
+
 torchaudio               2.3.0
+
 torchvision              0.18.0
+
 tqdm                     4.66.4
