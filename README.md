@@ -1,4 +1,4 @@
-# Particle-Algorithms-for-SSMs
+# Particle Algorithms for SSMs
 
 Each run of a model is in a seperate Jupyter Notebook file.
 There are Markdown chapters that indicate each part of the code.
@@ -6,6 +6,7 @@ The "Load Dataset" chapter contains paths to loading the dataset,
 that should be modified appropriately.
 
 The SDS model used is modified from https://github.com/charlio23/identifiable-SDS/tree/main
+
 We also modified the VRNN,IWAE,FIVO functions from https://github.com/charlio23/identifiable-SDS/tree/main
 
 # Requirements:
