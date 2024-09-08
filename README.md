@@ -7,7 +7,13 @@ that should be modified appropriately.
 
 The SDS model used is modified from https://github.com/charlio23/identifiable-SDS/tree/main
 
-We also modified the VRNN,IWAE,FIVO functions from https://github.com/charlio23/identifiable-SDS/tree/main
+We also modified the VRNN, IWAE, FIVO functions at https://github.com/charlio23/identifiable-SDS/tree/main
+
+The Coordinate and Bouncing Ball datasets are available at https://github.com/charlio23/identifiable-SDS/tree/main
+
+The Dancing Bee dataset is available at https://github.com/abdulfatir/REDSDS/blob/main/data/bee.sh
+
+For any questions please email at andmakris@gmail.com
 
 # Requirements:
 abcplus                  0.1.0
